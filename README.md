@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fernando Rey Caires @fernandoreycaires
 - 👀 I’m interested in programin and I new in that programing world, so I'm a Open Source enthusiast.
-- 🌱 I’m currently learning Laravel, PHP  and JavaScript and about BD I'm currently use MariaDb
+- 🌱 I’m currently learning Laravel, PHP, Spring Boot, Java  and JavaScript and about BD I'm currently use MariaDb
 - 📫 How to reach me - fernando.rey.caires@gmail.com
 
 <!---
